@@ -1,10 +1,6 @@
 __pycache__/
 *.py[cod]
 
-input/
-output/
-JeeKey/
-
 .venv/
 venv/
 env/
